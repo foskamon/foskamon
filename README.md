@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/foskamon"><img src="https://api.daily.dev/devcards/41bcdf90bebb4b819a0de3cea5e8df54.png?r=2vd" width="400" alt="Filipe's Dev Card"/></a>
+<a href="https://app.daily.dev/foskamon"><img src="https://github.com/foskamon/foskamon/blob/master/devcard.svg" width="400" alt="Filipe's Dev Card"/></a>
